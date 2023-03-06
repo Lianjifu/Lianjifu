@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+I'm Lianjifu 
 
 - 🔭 I’m currently working on shanghai
 - 🌱 I’m currently learning Cybersecurity
+- 💬 About me websit www.lianjifu.cn 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 
 
 
+You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor, Thank you! 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lianjifu&layout=compact&theme=tokyonight)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lianjifu)](https://github.com/anuraghazra/github-readme-stats)
-
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
