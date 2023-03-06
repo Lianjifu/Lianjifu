@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-?style=plastic&logo=appveyor
+https://img.shields.io/static/v1?label=个人简介D&message=个人主页&color=%3CCOLOR%3E
