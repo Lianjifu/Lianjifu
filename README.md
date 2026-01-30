@@ -2,14 +2,14 @@
 
 I'm Lianjifu 
 
-- 🔭 I’m currently working on shanghai
-- 🌱 I’m currently learning Cybersecurity
-- 💬 About me websit www.lianjifu.cn 
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 🔭 Currently based in Shanghai, working on cutting-edge projects at the intersection of software development and artificial intelligence.  
+- 🌱 Passionate about software engineering — actively deepening my expertise in AI, intelligent agents, and related technologies.  
+- 💬 Want to know more? Visit my personal website: [www.lianjifu.cn](https://www.lianjifu.cn)
+<!-- - - 👯 Looking to collaborate on open-source projects, AI applications, or innovative tech ventures.  
+- 🤔 Open to guidance or teamwork in areas like system design, agent-based AI, or secure coding practices.  
+- 📫 How to reach me 
+- 😄 Pronouns: He/Him (or specify your own)  
+- ⚡ Fun fact: I once built a chatbot that negotiates snack trades in the office!  -->
 
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
