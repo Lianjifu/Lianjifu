@@ -1,70 +1,107 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+JiFuLian+%F0%9F%91%8B;Full-Stack+Developer+%26+AI+Agent+Researcher;Deep-diving+into+Claude+Code+source+%F0%9F%94%8D" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=JiFuLian&fontSize=56&fontColor=ffffff&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Agent%20Researcher&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=560&lines=Deep-diving+into+Claude+Code+source;Building+AI+Agent+systems;91+long-form+technical+articles" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/Lianjifu?style=flat-square&color=1e3a8a&labelColor=0f172a" />
 
 </div>
 
-### 👨‍💻 About Me
+<br/>
 
-- 📍 现居上海，专注于软件开发与人工智能交叉领域的项目
-- 🌱 深耕 AI Agent 工程化 —— 从「用得好」到「跑得通」的全链路实践
-- ✍️ 在个人博客持续输出深度技术长文，覆盖 AI Agent、Claude Code 源码分析、安全与运维可观测性
-- 💬 欢迎交流 AI Agent、智能体工程、可观测性相关话题
-- 🔗 个人博客：**[www.lianjifu.cn](https://www.lianjifu.cn)**
+## <img src="https://api.iconify.design/mdi/account-outline.svg?color=%2358a6ff" width="26" style="vertical-align:middle"/>&nbsp; About Me
 
----
+<table>
+<tr>
+<td width="60%" valign="top">
 
-### 博客精选 · 4 大系列 91 篇深度长文
+I'm **JiFuLian**, a full-stack developer based in Shanghai, currently focused on the intersection of software engineering and AI Agent systems.
 
-> 43.2 万字 · 约 480 分钟阅读 · 持续更新中
+- Working end-to-end across the AI Agent stack — from applying agentic coding tools to building agent platforms and workbenches
+- Reverse-engineering the **Claude Code** source (490K lines of TypeScript) to understand how production-grade agent CLIs are actually built
+- Writing long-form technical notes on **observability**, covering both security incident response and SRE operations
+- Author of a technical blog with **91 articles / 432K words**, organized into four in-depth series
+- Open to discussing AI Agent engineering, tool architecture, and observability system design
 
-| 系列 | 篇数 | 主题 | 入口 |
-|---|---|---|---|
-| **AI Agent** | 5 篇 | 用好 → 吃透 → 做成 → 建成 → 跑通 | [开始阅读](https://www.lianjifu.cn/categories/ai-agent/) |
-| **Claude Code 源码分析** | 28 篇 | 49 万行 TypeScript Agent CLI 源码逆向 | [进入系列](https://www.lianjifu.cn/categories/claude-code/) |
-| **智能安全事件可观测性** | 31 篇 | 感知 · 研判 · 溯源 · 处置全链路 | [进入系列](https://www.lianjifu.cn/categories/observable-security/) |
-| **智能系统运维可观测性** | 27 篇 | 拓扑建模 · 故障诊断 · SRE Agent | [进入系列](https://www.lianjifu.cn/categories/observable-ops/) |
+</td>
+<td width="40%" valign="top">
 
-**推荐入口：**
-[AI Agent 能力链](https://www.lianjifu.cn/2026/08/06/ai-programming-engineering/) ·
-[Claude Code 全景概览](https://www.lianjifu.cn/2026/05/21/claude-code-01-overview/) ·
-[安全事件可观测总览](https://www.lianjifu.cn/2026/06/10/observable-security-01-00-intro-brief/) ·
-[运维可观测总览](https://www.lianjifu.cn/2026/06/13/observable-ops-01-01-product-overview/)
+**Focus areas**
 
----
+`AI Agent Engineering`
+`Claude Code Internals`
+`Security Observability`
+`SRE / Ops Observability`
+`MCP Protocol`
 
-### 技术栈
+**Blog**
+[lianjifu.cn](https://www.lianjifu.cn)
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-### GitHub 数据统计
+## <img src="https://api.iconify.design/mdi/github.svg?color=%2358a6ff" width="26" style="vertical-align:middle"/>&nbsp; GitHub Overview
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Lianjifu&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lianjifu&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Lianjifu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lianjifu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img src="https://streak-stats.demolab.com?user=Lianjifu&theme=radical&hide_border=true" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Lianjifu&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lianjifu&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="95%"/>
 
 </div>
 
----
+<br/>
+
+## <img src="https://api.iconify.design/mdi/tools.svg?color=%2358a6ff" width="26" style="vertical-align:middle"/>&nbsp; Tech Stack
 
 <div align="center">
 
-更多内容欢迎访问博客 **[lianjifu.cn](https://www.lianjifu.cn)**  ·  RSS 订阅 **[atom.xml](https://www.lianjifu.cn/atom.xml)**
+<img src="https://skillicons.dev/icons?i=cs,dotnet,go,java,python,js,vue,docker,linux,git&theme=dark" />
 
-You are my <img src="https://profile-counter.glitch.me/all-smile/count.svg" alt="Visitor Count" /> visitor, Thank you!
+</div>
+
+<br/>
+
+## <img src="https://api.iconify.design/mdi/notebook-outline.svg?color=%2358a6ff" width="26" style="vertical-align:middle"/>&nbsp; Blog · Four Deep-Dive Series
+
+<div align="center">
+
+| Series | Articles | Focus | Link |
+|---|:---:|---|:---:|
+| **AI Agent** | 5 | Adopt → Understand → Build → Platform → Workbench | [Read](https://www.lianjifu.cn/categories/ai-agent/) |
+| **Claude Code Internals** | 28 | 490K-line TypeScript Agent CLI source analysis | [Read](https://www.lianjifu.cn/categories/claude-code/) |
+| **Observable Security** | 31 | Detection · Triage · Traceback · Response | [Read](https://www.lianjifu.cn/categories/observable-security/) |
+| **Observable Ops** | 27 | Topology · Fault Diagnosis · SRE Agents | [Read](https://www.lianjifu.cn/categories/observable-ops/) |
+
+*91 articles &nbsp;·&nbsp; 432K words &nbsp;·&nbsp; ~480 min read*
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.lianjifu.cn"><img src="https://api.iconify.design/mdi/web.svg?color=%2358a6ff" width="28"/></a>&nbsp;&nbsp;
+<a href="https://www.lianjifu.cn/atom.xml"><img src="https://api.iconify.design/mdi/rss.svg?color=%2358a6ff" width="28"/></a>&nbsp;&nbsp;
+<a href="https://github.com/Lianjifu"><img src="https://api.iconify.design/mdi/github.svg?color=%2358a6ff" width="28"/></a>
+
+<br/><br/>
+
+Thanks for stopping by — you're visitor <img src="https://komarev.com/ghpvc/?username=Lianjifu&style=flat&color=1e3a8a&label=" height="20" style="vertical-align:middle"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>
