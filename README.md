@@ -14,16 +14,16 @@
 
 ---
 
-### ✍️ 博客精选 · 4 大系列 91 篇深度长文
+### 博客精选 · 4 大系列 91 篇深度长文
 
 > 43.2 万字 · 约 480 分钟阅读 · 持续更新中
 
 | 系列 | 篇数 | 主题 | 入口 |
 |---|---|---|---|
-| 🤖 **AI Agent** | 5 篇 | 用好 → 吃透 → 做成 → 建成 → 跑通 | [开始阅读](https://www.lianjifu.cn/categories/ai-agent/) |
-| 🔍 **Claude Code 源码分析** | 28 篇 | 49 万行 TypeScript Agent CLI 源码逆向 | [进入系列](https://www.lianjifu.cn/categories/claude-code/) |
-| 🛡️ **智能安全事件可观测性** | 31 篇 | 感知 · 研判 · 溯源 · 处置全链路 | [进入系列](https://www.lianjifu.cn/categories/observable-security/) |
-| ⚙️ **智能系统运维可观测性** | 27 篇 | 拓扑建模 · 故障诊断 · SRE Agent | [进入系列](https://www.lianjifu.cn/categories/observable-ops/) |
+| **AI Agent** | 5 篇 | 用好 → 吃透 → 做成 → 建成 → 跑通 | [开始阅读](https://www.lianjifu.cn/categories/ai-agent/) |
+| **Claude Code 源码分析** | 28 篇 | 49 万行 TypeScript Agent CLI 源码逆向 | [进入系列](https://www.lianjifu.cn/categories/claude-code/) |
+| **智能安全事件可观测性** | 31 篇 | 感知 · 研判 · 溯源 · 处置全链路 | [进入系列](https://www.lianjifu.cn/categories/observable-security/) |
+| **智能系统运维可观测性** | 27 篇 | 拓扑建模 · 故障诊断 · SRE Agent | [进入系列](https://www.lianjifu.cn/categories/observable-ops/) |
 
 **推荐入口：**
 [AI Agent 能力链](https://www.lianjifu.cn/2026/08/06/ai-programming-engineering/) ·
@@ -33,9 +33,7 @@
 
 ---
 
-### 🛠️ 技术栈
-
-**语言**
+### 技术栈
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
@@ -43,20 +41,14 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-
-**框架**
-
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-
-**工具与平台**
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 📊 GitHub 数据统计
+### GitHub 数据统计
 
 <div align="center">
 
@@ -71,7 +63,7 @@
 
 <div align="center">
 
-📫 更多内容欢迎访问博客 **[lianjifu.cn](https://www.lianjifu.cn)**  ·  RSS 订阅 **[atom.xml](https://www.lianjifu.cn/atom.xml)**
+更多内容欢迎访问博客 **[lianjifu.cn](https://www.lianjifu.cn)**  ·  RSS 订阅 **[atom.xml](https://www.lianjifu.cn/atom.xml)**
 
 You are my <img src="https://profile-counter.glitch.me/all-smile/count.svg" alt="Visitor Count" /> visitor, Thank you!
 
