@@ -1,107 +1,65 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lianjifu/Lianjifu.github.io/main/images/galaxy-field.svg" alt="数字思想星空" width="100%" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=JiFuLian&fontSize=56&fontColor=ffffff&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Agent%20Researcher&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<h1 align="center">JiFu Lian</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=560&lines=Deep-diving+into+Claude+Code+source;Building+AI+Agent+systems;91+long-form+technical+articles" alt="Typing SVG" />
+<p align="center">
+  全栈开发者 · AI Agent 工程探索者 · 可观测性实践者
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://www.lianjifu.cn">个人网站</a> ·
+  <a href="https://www.lianjifu.cn/archives/">技术博客</a> ·
+  <a href="https://github.com/Lianjifu">GitHub</a>
+</p>
 
-<img src="https://img.shields.io/github/followers/Lianjifu?style=flat-square&color=1e3a8a&labelColor=0f172a" />
+---
 
-</div>
+## 从交付功能，到构建可靠系统
 
-<br/>
+我从企业级全栈开发出发，持续探索复杂系统如何被设计、运行与验证。
 
-## <img src="https://api.iconify.design/mdi/account-outline.svg?color=%2358a6ff" width="26" style="vertical-align:middle"/>&nbsp; About Me
+从前端界面到后端服务，我关心一个局部功能如何融入整体，又如何在真实场景中保持可靠。近年的工作与写作集中在 AI Agent、源码分析、安全运营与系统运维可观测性。
 
-<table>
-<tr>
-<td width="60%" valign="top">
+我将实践过程中的问题、设计取舍和验证方法整理成文章，希望让复杂系统中的思路更清楚、更可复用。
 
-I'm **JiFuLian**, a full-stack developer based in Shanghai, currently focused on the intersection of software engineering and AI Agent systems.
+## 正在关注
 
-- Working end-to-end across the AI Agent stack — from applying agentic coding tools to building agent platforms and workbenches
-- Reverse-engineering the **Claude Code** source (490K lines of TypeScript) to understand how production-grade agent CLIs are actually built
-- Writing long-form technical notes on **observability**, covering both security incident response and SRE operations
-- Author of a technical blog with **91 articles / 432K words**, organized into four in-depth series
-- Open to discussing AI Agent engineering, tool architecture, and observability system design
+- **AI Agent 工程**：工具调用、上下文管理、任务状态与验证闭环
+- **源码分析**：从 Claude Code 等真实工程中理解 Agent 运行机制
+- **安全运营可观测性**：事件感知、研判、溯源、响应与知识沉淀
+- **系统运维可观测性**：故障诊断、根因分析、决策、自动执行与 SRE Agent
+- **工程实践**：让架构、代码、产品与运行反馈形成闭环
 
-</td>
-<td width="40%" valign="top">
+## 数字思想星空
 
-**Focus areas**
+| 专题 | 内容方向 | 入口 |
+|---|---|---|
+| AI Agent 工程实践 | 从个人交付到产品、平台与工作台 | [阅读专题](https://www.lianjifu.cn/categories/ai-agent/) |
+| Claude Code 源码分析 | 理解 Agent 的源码结构与运行机制 | [阅读专题](https://www.lianjifu.cn/categories/claude-code/) |
+| 安全运营可观测性 | 连接感知、研判、溯源与响应 | [阅读专题](https://www.lianjifu.cn/categories/observable-security/) |
+| 系统运维可观测性 | 从故障诊断到决策与自动化执行 | [阅读专题](https://www.lianjifu.cn/categories/observable-ops/) |
 
-`AI Agent Engineering`
-`Claude Code Internals`
-`Security Observability`
-`SRE / Ops Observability`
-`MCP Protocol`
+目前已完成 **91 篇技术文章**，围绕真实工程问题持续记录与迭代。
 
-**Blog**
-[lianjifu.cn](https://www.lianjifu.cn)
+## 代表项目
 
-</td>
-</tr>
-</table>
+- [AIOpsPlatform](https://github.com/Lianjifu/AIOpsPlatform)  
+  面向系统运维可观测性的智能平台，连接故障感知、诊断与决策闭环。
 
-<br/>
+- [OpenClaw 源码地图](https://github.com/Lianjifu/openclaw_code_analysis)  
+  拆解 Agent 运行时，将复杂源码组织为可读、可探索的知识地图。
 
-## <img src="https://api.iconify.design/mdi/github.svg?color=%2358a6ff" width="26" style="vertical-align:middle"/>&nbsp; GitHub Overview
+- [Agent Codebase Deep Dive](https://github.com/Lianjifu/agent-codebase-deep-dive)  
+  从实现细节出发，理解 AI Agent 系统的架构选择。
 
-<div align="center">
+## 持续构建，也持续记录
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Lianjifu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lianjifu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+问题可以很复杂，交流不必有距离。
 
-<br/>
+欢迎围绕 AI Agent、可观测性、源码分析和工程实践交流。
 
-<img src="https://streak-stats.demolab.com?user=Lianjifu&theme=tokyonight&hide_border=true&background=0D1117" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lianjifu&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="95%"/>
-
-</div>
-
-<br/>
-
-## <img src="https://api.iconify.design/mdi/tools.svg?color=%2358a6ff" width="26" style="vertical-align:middle"/>&nbsp; Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,go,java,python,js,vue,docker,linux,git&theme=dark" />
-
-</div>
-
-<br/>
-
-## <img src="https://api.iconify.design/mdi/notebook-outline.svg?color=%2358a6ff" width="26" style="vertical-align:middle"/>&nbsp; Blog · Four Deep-Dive Series
-
-<div align="center">
-
-| Series | Articles | Focus | Link |
-|---|:---:|---|:---:|
-| **AI Agent** | 5 | Adopt → Understand → Build → Platform → Workbench | [Read](https://www.lianjifu.cn/categories/ai-agent/) |
-| **Claude Code Internals** | 28 | 490K-line TypeScript Agent CLI source analysis | [Read](https://www.lianjifu.cn/categories/claude-code/) |
-| **Observable Security** | 31 | Detection · Triage · Traceback · Response | [Read](https://www.lianjifu.cn/categories/observable-security/) |
-| **Observable Ops** | 27 | Topology · Fault Diagnosis · SRE Agents | [Read](https://www.lianjifu.cn/categories/observable-ops/) |
-
-*91 articles &nbsp;·&nbsp; 432K words &nbsp;·&nbsp; ~480 min read*
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://www.lianjifu.cn"><img src="https://api.iconify.design/mdi/web.svg?color=%2358a6ff" width="28"/></a>&nbsp;&nbsp;
-<a href="https://www.lianjifu.cn/atom.xml"><img src="https://api.iconify.design/mdi/rss.svg?color=%2358a6ff" width="28"/></a>&nbsp;&nbsp;
-<a href="https://github.com/Lianjifu"><img src="https://api.iconify.design/mdi/github.svg?color=%2358a6ff" width="28"/></a>
-
-<br/><br/>
-
-Thanks for stopping by — you're visitor <img src="https://komarev.com/ghpvc/?username=Lianjifu&style=flat&color=1e3a8a&label=" height="20" style="vertical-align:middle"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <a href="https://www.lianjifu.cn">lianjifu.cn</a>
+</p>
