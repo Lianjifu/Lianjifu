@@ -1,65 +1,144 @@
+<h1 align="center">Hi, I'm JiFu Lian</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lianjifu/Lianjifu.github.io/main/images/galaxy-field.svg" alt="数字思想星空" width="100%" />
+  全栈开发 · AI Agent 工程 · 系统可观测性
 </p>
 
-<h1 align="center">JiFu Lian</h1>
-
 <p align="center">
-  全栈开发者 · AI Agent 工程探索者 · 可观测性实践者
+  研究系统如何工作，也动手让它可靠运行。
 </p>
 
 <p align="center">
   <a href="https://www.lianjifu.cn">个人网站</a> ·
-  <a href="https://www.lianjifu.cn/archives/">技术博客</a> ·
-  <a href="https://github.com/Lianjifu">GitHub</a>
+  <a href="https://www.lianjifu.cn/archives/">技术文章</a> ·
+  <a href="https://github.com/Lianjifu?tab=repositories">开源项目</a>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=900&color=3B8F86&center=true&vCenter=true&width=680&lines=让功能可靠地交付;让复杂系统更容易理解;让故障可以被感知、定位与恢复"
+    alt="让功能可靠地交付，让复杂系统更容易理解"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Lianjifu/AIOpsPlatform">
+    <img
+      src="https://img.shields.io/github/stars/Lianjifu/AIOpsPlatform?style=for-the-badge&label=AIOpsPlatform&color=3B8F86"
+      alt="AIOpsPlatform stars"
+    />
+  </a>
+  <a href="https://github.com/Lianjifu/openclaw_code_analysis">
+    <img
+      src="https://img.shields.io/github/stars/Lianjifu/openclaw_code_analysis?style=for-the-badge&label=OpenClaw&color=6554DC"
+      alt="OpenClaw stars"
+    />
+  </a>
+  <a href="https://www.lianjifu.cn/archives/">
+    <img
+      src="https://img.shields.io/badge/Articles-91-97743C?style=for-the-badge"
+      alt="91 technical articles"
+    />
+  </a>
 </p>
 
 ---
 
-## 从交付功能，到构建可靠系统
+## 关于我
 
-我从企业级全栈开发出发，持续探索复杂系统如何被设计、运行与验证。
+我是 JiFu Lian，从企业级全栈开发出发，持续探索 AI Agent 与复杂系统的工程实践。
 
-从前端界面到后端服务，我关心一个局部功能如何融入整体，又如何在真实场景中保持可靠。近年的工作与写作集中在 AI Agent、源码分析、安全运营与系统运维可观测性。
+我关注从界面、接口到运行反馈的完整过程：
 
-我将实践过程中的问题、设计取舍和验证方法整理成文章，希望让复杂系统中的思路更清楚、更可复用。
+- 功能如何落地
+- 系统如何协作
+- 故障如何定位
+- 结果如何验证
+- 失败后如何恢复
 
-## 正在关注
+近年的工作与写作集中在 AI Agent、源码分析、安全运营和系统运维可观测性。
 
-- **AI Agent 工程**：工具调用、上下文管理、任务状态与验证闭环
-- **源码分析**：从 Claude Code 等真实工程中理解 Agent 运行机制
-- **安全运营可观测性**：事件感知、研判、溯源、响应与知识沉淀
-- **系统运维可观测性**：故障诊断、根因分析、决策、自动执行与 SRE Agent
-- **工程实践**：让架构、代码、产品与运行反馈形成闭环
+我把开发和源码阅读中的问题整理成文章，记录实现方法、设计取舍和验证过程，希望让复杂系统中的思路更清楚、更容易复用。
 
-## 数字思想星空
+## 项目与探索
 
-| 专题 | 内容方向 | 入口 |
-|---|---|---|
-| AI Agent 工程实践 | 从个人交付到产品、平台与工作台 | [阅读专题](https://www.lianjifu.cn/categories/ai-agent/) |
-| Claude Code 源码分析 | 理解 Agent 的源码结构与运行机制 | [阅读专题](https://www.lianjifu.cn/categories/claude-code/) |
-| 安全运营可观测性 | 连接感知、研判、溯源与响应 | [阅读专题](https://www.lianjifu.cn/categories/observable-security/) |
-| 系统运维可观测性 | 从故障诊断到决策与自动化执行 | [阅读专题](https://www.lianjifu.cn/categories/observable-ops/) |
-
-目前已完成 **91 篇技术文章**，围绕真实工程问题持续记录与迭代。
-
-## 代表项目
-
-- [AIOpsPlatform](https://github.com/Lianjifu/AIOpsPlatform)  
-  面向系统运维可观测性的智能平台，连接故障感知、诊断与决策闭环。
-
-- [OpenClaw 源码地图](https://github.com/Lianjifu/openclaw_code_analysis)  
-  拆解 Agent 运行时，将复杂源码组织为可读、可探索的知识地图。
-
-- [Agent Codebase Deep Dive](https://github.com/Lianjifu/agent-codebase-deep-dive)  
-  从实现细节出发，理解 AI Agent 系统的架构选择。
-
-## 持续构建，也持续记录
-
-问题可以很复杂，交流不必有距离。
-
-欢迎围绕 AI Agent、可观测性、源码分析和工程实践交流。
+| 项目 | 关注的问题 |
+| --- | --- |
+| [AIOpsPlatform](https://github.com/Lianjifu/AIOpsPlatform) | 如何关联运维信号，将故障感知、诊断与决策连接起来 |
+| [OpenClaw 源码地图](https://github.com/Lianjifu/openclaw_code_analysis) | 如何梳理 Agent 运行时，让模块职责和调用路径更容易理解 |
+| [Agent Codebase Deep Dive](https://github.com/Lianjifu/agent-codebase-deep-dive) | 如何从源码实现理解 AI Agent 的架构选择与工程约束 |
 
 <p align="center">
+  <a href="https://github.com/Lianjifu/AIOpsPlatform">
+    <img
+      src="https://img.shields.io/github/stars/Lianjifu/AIOpsPlatform?style=flat-square&color=3B8F86"
+      alt="AIOpsPlatform stars"
+    />
+  </a>
+  <a href="https://github.com/Lianjifu/openclaw_code_analysis">
+    <img
+      src="https://img.shields.io/github/stars/Lianjifu/openclaw_code_analysis?style=flat-square&color=6554DC"
+      alt="OpenClaw stars"
+    />
+  </a>
+  <a href="https://github.com/Lianjifu/agent-codebase-deep-dive">
+    <img
+      src="https://img.shields.io/github/stars/Lianjifu/agent-codebase-deep-dive?style=flat-square&color=97743C"
+      alt="Agent Codebase Deep Dive stars"
+    />
+  </a>
+</p>
+
+## 技术写作 · 数字思想星空
+
+我持续记录真实工程问题，重点说明系统如何运转、方案为何这样选择，以及如何检验结果。
+
+| 专题 | 阅读方向 |
+| --- | --- |
+| [AI Agent 工程实践](https://www.lianjifu.cn/categories/ai-agent/) | 从个人交付到 Agent 产品、平台与办公工作台 |
+| [Claude Code 源码分析](https://www.lianjifu.cn/categories/claude-code/) | 理解 Agent 的工具调用、权限、消息与运行机制 |
+| [安全运营可观测性](https://www.lianjifu.cn/categories/observable-security/) | 串联事件感知、研判、溯源、响应与知识沉淀 |
+| [系统运维可观测性](https://www.lianjifu.cn/categories/observable-ops/) | 从拓扑与数据融合，到根因分析、决策和自动执行 |
+
+<p align="center">
+  <a href="https://www.lianjifu.cn/archives/">
+    <img
+      src="https://img.shields.io/badge/阅读全部文章-91-3B8F86?style=for-the-badge"
+      alt="阅读全部技术文章"
+    />
+  </a>
+</p>
+
+## 最近关注
+
+- **Agent 的可靠执行**：任务如何推进、验证，失败后如何恢复。
+- **上下文与状态管理**：如何让 Agent 在复杂任务中保持连续性。
+- **源码中的设计取舍**：模块如何划分，状态如何流转，权限如何约束。
+- **可观测性与自动化**：如何从信号中定位问题，并验证处置效果。
+- **工程反馈闭环**：让架构、代码、产品和运行结果互相校正。
+
+## 技术方向
+
+```text
+Frontend        React · TypeScript · HTML · CSS
+Backend         Node.js · Python · REST API
+AI Agent        Tool Calling · Context · Memory · Planning
+Observability   Metrics · Logs · Traces · Topology
+Operations      Diagnosis · RCA · Decision · Automation
+Engineering     Testing · Verification · Documentation
+```
+联系与交流
+欢迎围绕以下主题交流：
+- AI Agent 工程实践
+- Claude Code 和 Agent 源码分析
+- 系统运维与安全运营可观测性
+- 故障诊断、自动化执行与 SRE Agent
+- 全栈开发和复杂系统设计
+可以通过 GitHub Issue、项目讨论或个人网站联系我。
+<p align="center">
   <a href="https://www.lianjifu.cn">lianjifu.cn</a>
+</p>
+
+<p align="center">
+  <sub>持续构建，也持续记录。</sub>
 </p>
