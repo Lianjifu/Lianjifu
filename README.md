@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lianjifu/Lianjifu.github.io/main/images/galaxy-field.svg" alt="数字思想星空" width="100%" />
-</p>
-
 <h1 align="center">JiFu Lian</h1>
 
 <p align="center">
