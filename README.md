@@ -74,7 +74,11 @@
     width="96%"
   />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lianjifu&style=flat-square&color=31566B&label=PROFILE+VIEWS" alt="个人主页访问量" />
+  <img src="https://img.shields.io/github/followers/Lianjifu?style=flat-square&color=31566B&labelColor=111927&label=FOLLOWERS" alt="GitHub 关注者" />
+  <img src="https://img.shields.io/github/stars/Lianjifu?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=31566B&labelColor=111927&label=TOTAL+STARS" alt="GitHub Star 总数" />
+</p>
 ---
 
 <p align="center">
