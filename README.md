@@ -68,7 +68,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lianjifu&bg_color=0B1220&color=9FB3C8&line=7C9FBE&point=E5EEF6&area=true&area_color=31566B&hide_border=true" alt="GitHub 活动图" width="96%" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lianjifu&theme=github_dark"
+    alt="GitHub 贡献概览"
+    width="96%"
+  />
 </p>
 
 ---
