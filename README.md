@@ -1,11 +1,11 @@
-<h1 align="center">JiFu Lian</h1>
+<h1 align="center">Hi, I'm JiFu Lian 👋</h1>
 
 <p align="center">
-  全栈开发者 · AI Agent 工程探索者 · 可观测性实践者
+  全栈开发者 · AI Agent 工程探索者 · 技术写作者
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1800&color=7C9FBE&center=true&vCenter=true&width=660&lines=Build+systems.+Observe+reality.+Write+with+clarity.;AI+Agent+Engineering+%C2%B7+Source+Code+Analysis+%C2%B7+Observability" alt="动态介绍" />
+  把想法写成代码，把系统看清楚，把经验留下来。
 </p>
 
 <p align="center">
@@ -22,23 +22,34 @@
 
 ---
 
-## 从交付功能，到构建可靠系统
+## 关于我
 
-我从企业级全栈开发出发，关注软件如何从一个可用功能，成长为能够长期运行、持续演进的系统。
+我是 JiFu Lian，一名从企业级全栈开发出发的工程师。在这里，我记录自己构建系统、阅读源码和探索 AI Agent 的过程。
 
-从前端交互到后端服务，从一次故障到一条完整链路，我持续追问：系统此刻发生了什么，为什么会这样，以及如何用工程方法把问题解决得更可靠。
+我喜欢沿着一个问题往下追：从页面上的一次交互，到后端的一次调用，再到日志里留下的线索。功能跑通之后，我还想知道它为什么这样设计、出错时能否定位，以及下一次修改会影响哪里。
 
-目前主要围绕 AI Agent、源码分析、安全运营可观测性与系统运维可观测性开展实践和写作。我将真实问题、设计取舍、实现路径与验证结果记录下来，希望让复杂系统中的关键判断更清晰，也更容易复用。
+最近，我把更多精力放在 **AI Agent 如何参与真实工作** 上：它需要哪些知识和工具，执行到哪里应该交还给人，以及如何留下可检查的过程与结果。这些问题，也是我做项目和写文章的起点。
 
-## 关注方向
+## 正在探索
 
-- **AI Agent 工程**：工具调用、上下文管理、任务状态、验证闭环与工程化交付
-- **源码分析**：从真实代码库理解 Agent 系统的架构、运行机制与设计选择
-- **安全运营可观测性**：事件感知、智能研判、攻击溯源、响应处置与知识沉淀
-- **系统运维可观测性**：故障诊断、根因分析、智能决策、自动执行与 SRE Agent
-- **工程实践**：让需求、架构、代码、运行反馈与复盘形成闭环
+- **数字工作伙伴**：把模型、知识、技能和流程组织为有职责、有权限边界的岗位伙伴，探索人机协作与执行治理。
+- **Agent 工程与源码**：研究工具调用、上下文管理、任务状态和运行时设计，用真实代码理解实现取舍。
+- **可观测性与 AIOps**：关注系统运维与安全运营中的事件感知、故障诊断、根因分析和响应处置。
 
-## 数字思想星空
+## 代表项目
+
+这些仓库记录了我的产品实践与源码学习。欢迎从你感兴趣的方向开始。
+
+| 项目 | 我在探索什么 |
+| --- | --- |
+| [digital-employee-platform](https://github.com/Lianjifu/digital-employee-platform) | **数字工作伙伴平台**：面向企业岗位的编排与治理控制台，探索模型、知识、技能与工作流的装配，以及受控协作、执行和审计。 |
+| [AIOpsPlatform](https://github.com/Lianjifu/AIOpsPlatform) | **智能运维**：围绕系统运维可观测性，连接故障感知、诊断分析与决策。 |
+| [OpenClaw 源码地图](https://github.com/Lianjifu/openclaw_code_analysis) | **Agent 运行时解析**：拆解源码结构与执行机制，将复杂代码组织为可读、可探索的知识地图。 |
+| [Agent Codebase Deep Dive](https://github.com/Lianjifu/agent-codebase-deep-dive) | **Agent 源码研读**：从实现细节理解架构选择，记录设计思路与工程权衡。 |
+
+## 写在「数字思想星空」
+
+代码之外，我在 [个人博客](https://www.lianjifu.cn/archives/) 记录实践中的问题、设计取舍和验证结果。希望文章既能讲清楚原理，也能保留动手时需要的细节。
 
 | 专题 | 探索内容 | 入口 |
 | --- | --- | --- |
@@ -47,24 +58,22 @@
 | 安全运营可观测性 | 从事件感知到研判、溯源与响应 | [阅读专题](https://www.lianjifu.cn/categories/observable-security/) |
 | 系统运维可观测性 | 从故障诊断到决策与自动化执行 | [阅读专题](https://www.lianjifu.cn/categories/observable-ops/) |
 
+## 我看重的工程习惯
 
-## 代表项目
+- **先弄清问题，再选工具。** 从使用场景和约束出发，让技术选择有具体依据。
+- **用证据判断结果。** 阅读源码、检查日志、复现问题，让结论经得起验证。
+- **给后续维护留线索。** 在代码和文档里说明关键边界与取舍，让下一次接手更容易。
 
-| 项目 | 说明 |
-| --- | --- |
-| [AIOpsPlatform](https://github.com/Lianjifu/AIOpsPlatform) | 面向系统运维可观测性的智能平台，连接故障感知、诊断分析与决策闭环。 |
-| [OpenClaw 源码地图](https://github.com/Lianjifu/openclaw_code_analysis) | 拆解 Agent 运行时，将复杂源码组织为可读、可探索的知识地图。 |
-| [Agent Codebase Deep Dive](https://github.com/Lianjifu/agent-codebase-deep-dive) | 从实现细节出发，理解 AI Agent 系统的架构选择与工程权衡。 |
+如果你也在研究 Agent 工程、可观测性，或正在读同一个开源项目，欢迎在对应仓库交流具体问题。
 
 ## GitHub 轨迹
+
+<details>
+<summary>展开查看贡献与语言统计</summary>
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=Lianjifu&show_icons=true&hide_border=true&bg_color=0B1220&title_color=E5EEF6&text_color=9FB3C8&icon_color=7C9FBE" alt="GitHub 统计" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lianjifu&layout=compact&hide_border=true&bg_color=0B1220&title_color=E5EEF6&text_color=9FB3C8" alt="常用语言" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lianjifu&hide_border=true&background=0B1220&ring=7C9FBE&fire=B8D6E9&currStreakLabel=E5EEF6&sideLabels=9FB3C8&dates=718096" alt="连续贡献统计" />
 </p>
 
 <p align="center">
@@ -75,6 +84,7 @@
   />
 </p>
 
+</details>
 
 ---
 
