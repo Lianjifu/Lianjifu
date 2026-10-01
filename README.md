@@ -42,7 +42,8 @@
 
 | 项目 | 我在探索什么 |
 | --- | --- |
-| [digital-employee-platform](https://github.com/Lianjifu/digital-employee-platform) | **数字工作伙伴平台**：面向企业岗位的编排与治理控制台，探索模型、知识、技能与工作流的装配，以及受控协作、执行和审计。 |
+
+| [QiZhiDaPartnerPlatform](https://github.com/Lianjifu/QiZhiDaPartnerPlatform) | **数字工作伙伴平台**：面向企业岗位的编排与治理控制台，探索模型、知识、技能与工作流的装配，以及受控协作、执行和审计。 |
 | [AIOpsPlatform](https://github.com/Lianjifu/AIOpsPlatform) | **智能运维**：围绕系统运维可观测性，连接故障感知、诊断分析与决策。 |
 | [OpenClaw 源码地图](https://github.com/Lianjifu/openclaw_code_analysis) | **Agent 运行时解析**：拆解源码结构与执行机制，将复杂代码组织为可读、可探索的知识地图。 |
 | [Agent Codebase Deep Dive](https://github.com/Lianjifu/agent-codebase-deep-dive) | **Agent 源码研读**：从实现细节理解架构选择，记录设计思路与工程权衡。 |
