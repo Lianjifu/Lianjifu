@@ -33,7 +33,7 @@
 ## 正在探索
 
 - **数字工作伙伴**：把模型、知识、技能和流程组织为有职责、有权限边界的岗位伙伴，探索人机协作与执行治理。
-- **Agent 工程与源码**：研究工具调用、上下文管理、任务状态和运行时设计，用真实代码理解实现取舍。
+- **Agent 工程与源码**：研究工具调用、上下文管理、任务状态和运行时设计，用真实代码理解实现取舍。https://github.com/Lianjifu/Lianjifu/blob/main/README.md
 - **可观测性与 AIOps**：关注系统运维与安全运营中的事件感知、故障诊断、根因分析和响应处置。
 
 ## 代表项目
@@ -42,9 +42,8 @@
 
 | 项目 | 我在探索什么 |
 | --- | --- |
-
-| [QiZhiDaPartnerPlatform](https://github.com/Lianjifu/QiZhiDaPartnerPlatform) | **数字工作伙伴平台**：面向企业岗位的编排与治理控制台，探索模型、知识、技能与工作流的装配，以及受控协作、执行和审计。 |
-| [AIOpsPlatform](https://github.com/Lianjifu/AIOpsPlatform) | **智能运维**：围绕系统运维可观测性，连接故障感知、诊断分析与决策。 |
+| [QiZhiDaPartnerPlatform](https://github.com/Lianjifu/QiZhiDaPartnerPlatform)| **数字伙伴平台**：面向企业岗位的编排与治理控制台，探索模型、知识、技能与工作流的装配，以及受控协作、执行和审计。 |
+| [AIOpsPlatform](https://github.com/Lianjifu/AIOpsPlatform)| **智能运维**：围绕系统运维可观测性，连接故障感知、诊断分析与决策。 |
 | [OpenClaw 源码地图](https://github.com/Lianjifu/openclaw_code_analysis) | **Agent 运行时解析**：拆解源码结构与执行机制，将复杂代码组织为可读、可探索的知识地图。 |
 | [Agent Codebase Deep Dive](https://github.com/Lianjifu/agent-codebase-deep-dive) | **Agent 源码研读**：从实现细节理解架构选择，记录设计思路与工程权衡。 |
 
