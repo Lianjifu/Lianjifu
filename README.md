@@ -24,32 +24,42 @@
 
 ## 关于我
 
-我是 JiFu Lian，一名从企业级全栈开发出发的工程师。在这里，我记录自己构建系统、阅读源码和探索 AI Agent 的过程。
+我是 JiFu Lian,一名从企业级全栈开发出发的工程师。我喜欢沿着一个问题往下追——从页面上的一次交互,到后端的一次调用,再到日志里留下的线索。
 
-我喜欢沿着一个问题往下追：从页面上的一次交互，到后端的一次调用，再到日志里留下的线索。功能跑通之后，我还想知道它为什么这样设计、出错时能否定位，以及下一次修改会影响哪里。
-
-最近，我把更多精力放在 **AI Agent 如何参与真实工作** 上：它需要哪些知识和工具，执行到哪里应该交还给人，以及如何留下可检查的过程与结果。这些问题，也是我做项目和写文章的起点。
+最近把精力放在 **AI Agent 如何参与真实工作**:它需要哪些知识和工具,执行到哪里应该交还给人,如何留下可检查的过程与结果。这些问题,既是我做项目的起点,也是写文章的起点。
 
 ## 正在探索
 
-- **数字伙伴**：把模型、知识、技能和流程组织为有职责、有权限边界的岗位伙伴，探索人机协作与执行治理。
-- **Agent 工程与源码**：研究工具调用、上下文管理、任务状态和运行时设计，用真实代码理解实现取舍。
-- **可观测性与 AIOps**：关注系统运维与安全运营中的事件感知、故障诊断、根因分析和响应处置。
+- **数字伙伴**:把模型、知识、技能和流程组织为有职责、有权限边界的岗位伙伴,探索人机协作与执行治理。
+- **Agent 工程与源码**:研究工具调用、上下文管理、任务状态和运行时设计,用真实代码理解实现取舍。
+- **可观测性与 AIOps**:关注系统运维与安全运营中的事件感知、故障诊断、根因分析和响应处置。
 
-## 代表项目
+## 代码项目
 
-这些仓库记录了我的产品实践与源码学习。欢迎从你感兴趣的方向开始。
+### 🤖 数字伙伴平台
+- **[QiZhiDaPartnerPlatform](https://github.com/Lianjifu/QiZhiDaPartnerPlatform)** · Go · ⭐1 · 持续迭代
+  面向企业的 AI 数字员工 / 数字伙伴平台,7×24h 陪伴式协作,而非单次任务调用。
 
-| 项目 | 我在探索什么 |
-| --- | --- |
-| [QiZhiDaPartnerPlatform](https://github.com/Lianjifu/QiZhiDaPartnerPlatform)| **数字伙伴平台**：面向企业岗位的编排与治理控制台，探索模型、知识、技能与工作流的装配，以及受控协作、执行和审计。 |
-| [AIOpsPlatform](https://github.com/Lianjifu/AIOpsPlatform)| **智能运维**：围绕系统运维可观测性，连接故障感知、诊断分析与决策。 |
-| [OpenClaw 源码地图](https://github.com/Lianjifu/openclaw_code_analysis) | **Agent 运行时解析**：拆解源码结构与执行机制，将复杂代码组织为可读、可探索的知识地图。 |
-| [Agent Codebase Deep Dive](https://github.com/Lianjifu/agent-codebase-deep-dive) | **Agent 源码研读**：从实现细节理解架构选择，记录设计思路与工程权衡。 |
+### 🤖 智能体平台
+- **[QiZhiDaAgentPlatform](https://github.com/Lianjifu/QiZhiDaAgentPlatform)** · Python · 持续迭代
+  面向中小企业的智能体构建与运营平台,无需懂技术,也能"搭"出能干活的智能体。
+
+### 📊 可观测平台
+- **[AIOpsPlatform](https://github.com/Lianjifu/AIOpsPlatform)** · Vue · 持续迭代
+  智能系统运维可观测性平台。
+  配套: [observable-ops](https://github.com/Lianjifu/observable-ops) · [observable-security](https://github.com/Lianjifu/observable-security)
+
+### 🔬 源码解读 · OpenClaw
+- **[openclaw_code_analysis](https://github.com/Lianjifu/openclaw_code_analysis)** · HTML
+  OpenClaw agent 原理分析,拆解运行时结构与执行机制。
+
+### 🔬 源码解读 · Claude Code
+- **[agent-codebase-deep-dive](https://github.com/Lianjifu/agent-codebase-deep-dive)** · HTML
+  从实现细节看 agent 架构选择与工程权衡。
 
 ## 写在「数字思想星空」
 
-代码之外，我在 [个人博客](https://www.lianjifu.cn/archives/) 记录实践中的问题、设计取舍和验证结果。希望文章既能讲清楚原理，也能保留动手时需要的细节。
+代码之外,我在 [个人博客](https://www.lianjifu.cn/archives/) 记录实践中的问题、设计取舍和验证结果。希望文章既能讲清楚原理,也能保留动手时需要的细节。
 
 | 专题 | 探索内容 | 入口 |
 | --- | --- | --- |
@@ -58,38 +68,24 @@
 | 安全运营可观测性 | 从事件感知到研判、溯源与响应 | [阅读专题](https://www.lianjifu.cn/categories/observable-security/) |
 | 系统运维可观测性 | 从故障诊断到决策与自动化执行 | [阅读专题](https://www.lianjifu.cn/categories/observable-ops/) |
 
+## 我在用什么栈
+
+工程实践中长期使用,也是仓库与博客的常用选型。
+
+`TypeScript` · `Python` · `Go` · `Vue` · `Next.js` · `Postgres` · `ClickHouse` · `Grafana`
+
 ## 我看重的工程习惯
 
-- **先弄清问题，再选工具。** 从使用场景和约束出发，让技术选择有具体依据。
-- **用证据判断结果。** 阅读源码、检查日志、复现问题，让结论经得起验证。
-- **给后续维护留线索。** 在代码和文档里说明关键边界与取舍，让下一次接手更容易。
+- **先弄清问题,再选工具。** 从使用场景和约束出发,让技术选择有具体依据。
+- **用证据判断结果。** 阅读源码、检查日志、复现问题,让结论经得起验证。
+- **给后续维护留线索。** 在代码和文档里说明关键边界与取舍,让下一次接手更容易。
 
-如果你也在研究 Agent 工程、可观测性，或正在读同一个开源项目，欢迎在对应仓库交流具体问题。
-
-## GitHub 轨迹
-
-<details>
-<summary>展开查看贡献与语言统计</summary>
-
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Lianjifu&show_icons=true&hide_border=true&bg_color=0B1220&title_color=E5EEF6&text_color=9FB3C8&icon_color=7C9FBE" alt="GitHub 统计" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lianjifu&layout=compact&hide_border=true&bg_color=0B1220&title_color=E5EEF6&text_color=9FB3C8" alt="常用语言" />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lianjifu&theme=github_dark"
-    alt="GitHub 贡献概览"
-    width="96%"
-  />
-</p>
-
-</details>
+如果你也在研究 Agent 工程、可观测性,或正在读同一个开源项目,欢迎在对应仓库交流具体问题。
 
 ---
 
 <p align="center">
-  问题可以很复杂，交流不必有距离。<br />
+  问题可以很复杂,交流不必有距离。<br />
   <a href="https://www.lianjifu.cn">lianjifu.cn</a> ·
   <a href="https://www.lianjifu.cn/atom.xml">RSS</a>
 </p>
