@@ -36,24 +36,29 @@
 
 ## 代码项目
 
-### 🤖 数字伙伴平台
+![数字伙伴平台](https://img.shields.io/badge/数字伙伴平台-31566B?style=for-the-badge&logo=robotframework&logoColor=white)
+
 - **[QiZhiDaPartnerPlatform](https://github.com/Lianjifu/QiZhiDaPartnerPlatform)** · Go · ⭐1 · 持续迭代
   面向企业的 AI 数字员工 / 数字伙伴平台,7×24h 陪伴式协作,而非单次任务调用。
 
-### 🤖 智能体平台
+![智能体平台](https://img.shields.io/badge/智能体平台-31566B?style=for-the-badge&logo=openai&logoColor=white)
+
 - **[QiZhiDaAgentPlatform](https://github.com/Lianjifu/QiZhiDaAgentPlatform)** · Python · 持续迭代
   面向中小企业的智能体构建与运营平台,无需懂技术,也能"搭"出能干活的智能体。
 
-### 📊 可观测平台
+![可观测平台](https://img.shields.io/badge/可观测平台-31566B?style=for-the-badge&logo=prometheus&logoColor=white)
+
 - **[AIOpsPlatform](https://github.com/Lianjifu/AIOpsPlatform)** · Vue · 持续迭代
   智能系统运维可观测性平台。
   配套: [observable-ops](https://github.com/Lianjifu/observable-ops) · [observable-security](https://github.com/Lianjifu/observable-security)
 
-### 🔬 源码解读 · OpenClaw
+![源码解读 · OpenClaw](https://img.shields.io/badge/源码解读·OpenClaw-31566B?style=for-the-badge&logo=github&logoColor=white)
+
 - **[openclaw_code_analysis](https://github.com/Lianjifu/openclaw_code_analysis)** · HTML
   OpenClaw agent 原理分析,拆解运行时结构与执行机制。
 
-### 🔬 源码解读 · Claude Code
+![源码解读 · Claude Code](https://img.shields.io/badge/源码解读·Claude_Code-31566B?style=for-the-badge&logo=anthropic&logoColor=white)
+
 - **[agent-codebase-deep-dive](https://github.com/Lianjifu/agent-codebase-deep-dive)** · HTML
   从实现细节看 agent 架构选择与工程权衡。
 
@@ -72,7 +77,14 @@
 
 工程实践中长期使用,也是仓库与博客的常用选型。
 
-`TypeScript` · `Python` · `Go` · `Vue` · `Next.js` · `Postgres` · `ClickHouse` · `Grafana`
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ## 我看重的工程习惯
 
