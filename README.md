@@ -30,7 +30,7 @@
 
 ## 正在探索
 
-- **数字伙伴**:把模型、知识、技能和流程组织为有职责、有权限边界的岗位伙伴,探索人机协作与执行治理。
+- **数字伙伴与智能体平台**:把模型、知识、技能和流程组织为有职责、有权限边界的岗位伙伴,探索人机协作与执行治理。
 - **Agent 工程实践**:研究工具调用、上下文管理、任务状态和运行时设计,用真实代码理解实现取舍。
 - **可观测性与 AIOps**:关注系统运维与安全运营中的事件感知、故障诊断、根因分析和响应处置。
 
@@ -55,14 +55,14 @@
 
 ## 写在「数字思想星空」
 
-代码之外,我在 [个人博客](https://www.lianjifu.cn/archives/) 记录实践中的问题、设计取舍和验证结果。希望文章既能讲清楚原理,也能保留动手时需要的细节。
+代码之外,我在 [个人博客](https://www.lianjifu.cn/archives/) 记录实践中的问题、设计取舍和验证结果。
 
-| 专题 | 探索内容 | 入口 |
-| --- | --- | --- |
-| AI Agent 工程实践 | 从个人交付到产品、平台与工作台 | [阅读专题](https://www.lianjifu.cn/categories/ai-agent/) |
-| Claude Code 源码分析 | 从源码结构理解 Agent 的运行机制 | [阅读专题](https://www.lianjifu.cn/categories/claude-code/) |
-| 安全运营可观测性 | 从事件感知到研判、溯源与响应 | [阅读专题](https://www.lianjifu.cn/categories/observable-security/) |
-| 系统运维可观测性 | 从故障诊断到决策与自动化执行 | [阅读专题](https://www.lianjifu.cn/categories/observable-ops/) |
+| 专题 | 入口 |
+| --- | --- |
+| AI Agent 工程实践笔记 | [阅读 →](https://www.lianjifu.cn/categories/ai-agent/) |
+| Claude Code 源码分析笔记 | [阅读 →](https://www.lianjifu.cn/categories/claude-code/) |
+| 安全运营可观测性笔记 | [阅读 →](https://www.lianjifu.cn/categories/observable-security/) |
+| 系统运维可观测性笔记 | [阅读 →](https://www.lianjifu.cn/categories/observable-ops/) |
 
 ## 我在用什么栈
 
