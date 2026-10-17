@@ -48,19 +48,10 @@
 
 ![可观测平台](https://img.shields.io/badge/可观测平台-111927?style=for-the-badge&logo=prometheus&logoColor=white)
 
-- **[AIOpsPlatform](https://github.com/Lianjifu/AIOpsPlatform)** · Vue · 持续迭代
+- **[intelligent-operations-observability-platform](https://github.com/Lianjifu/intelligent-operations-observability-platform)** · Vue · 持续迭代
   智能系统运维可观测性平台。
-  配套: [observable-ops](https://github.com/Lianjifu/observable-ops) · [observable-security](https://github.com/Lianjifu/observable-security)
+  配套: [ai-operations-observability](https://github.com/Lianjifu/ai-operations-observability) · [ai-security-observability](https://github.com/Lianjifu/ai-security-observability)
 
-![源码解读 · OpenClaw](https://img.shields.io/badge/源码解读·OpenClaw-111927?style=for-the-badge&logo=github&logoColor=white)
-
-- **[openclaw_code_analysis](https://github.com/Lianjifu/openclaw_code_analysis)** · HTML
-  OpenClaw agent 原理分析,拆解运行时结构与执行机制。
-
-![源码解读 · Claude Code](https://img.shields.io/badge/源码解读·Claude_Code-111927?style=for-the-badge&logo=anthropic&logoColor=white)
-
-- **[agent-codebase-deep-dive](https://github.com/Lianjifu/agent-codebase-deep-dive)** · HTML
-  从实现细节看 agent 架构选择与工程权衡。
 
 ## 写在「数字思想星空」
 
