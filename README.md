@@ -36,28 +36,28 @@
 
 ## 代码项目
 
-![数字伙伴平台](https://img.shields.io/badge/数字伙伴平台-31566B?style=for-the-badge&logo=robotframework&logoColor=white)
+![数字伙伴平台](https://img.shields.io/badge/数字伙伴平台-111927?style=for-the-badge&logo=robotframework&logoColor=white)
 
 - **[QiZhiDaPartnerPlatform](https://github.com/Lianjifu/QiZhiDaPartnerPlatform)** · Go · ⭐1 · 持续迭代
   面向企业的 AI 数字员工 / 数字伙伴平台,7×24h 陪伴式协作,而非单次任务调用。
 
-![智能体平台](https://img.shields.io/badge/智能体平台-31566B?style=for-the-badge&logo=openai&logoColor=white)
+![智能体平台](https://img.shields.io/badge/智能体平台-111927?style=for-the-badge&logo=openai&logoColor=white)
 
 - **[QiZhiDaAgentPlatform](https://github.com/Lianjifu/QiZhiDaAgentPlatform)** · Python · 持续迭代
   面向中小企业的智能体构建与运营平台,无需懂技术,也能"搭"出能干活的智能体。
 
-![可观测平台](https://img.shields.io/badge/可观测平台-31566B?style=for-the-badge&logo=prometheus&logoColor=white)
+![可观测平台](https://img.shields.io/badge/可观测平台-111927?style=for-the-badge&logo=prometheus&logoColor=white)
 
 - **[AIOpsPlatform](https://github.com/Lianjifu/AIOpsPlatform)** · Vue · 持续迭代
   智能系统运维可观测性平台。
   配套: [observable-ops](https://github.com/Lianjifu/observable-ops) · [observable-security](https://github.com/Lianjifu/observable-security)
 
-![源码解读 · OpenClaw](https://img.shields.io/badge/源码解读·OpenClaw-31566B?style=for-the-badge&logo=github&logoColor=white)
+![源码解读 · OpenClaw](https://img.shields.io/badge/源码解读·OpenClaw-111927?style=for-the-badge&logo=github&logoColor=white)
 
 - **[openclaw_code_analysis](https://github.com/Lianjifu/openclaw_code_analysis)** · HTML
   OpenClaw agent 原理分析,拆解运行时结构与执行机制。
 
-![源码解读 · Claude Code](https://img.shields.io/badge/源码解读·Claude_Code-31566B?style=for-the-badge&logo=anthropic&logoColor=white)
+![源码解读 · Claude Code](https://img.shields.io/badge/源码解读·Claude_Code-111927?style=for-the-badge&logo=anthropic&logoColor=white)
 
 - **[agent-codebase-deep-dive](https://github.com/Lianjifu/agent-codebase-deep-dive)** · HTML
   从实现细节看 agent 架构选择与工程权衡。
