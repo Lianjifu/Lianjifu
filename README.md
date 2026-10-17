@@ -36,17 +36,17 @@
 
 ## 代码项目
 
-![数字伙伴平台](https://img.shields.io/badge/数字伙伴平台-111927?style=for-the-badge&logo=robotframework&logoColor=white)
+![数字伙伴平台](https://img.shields.io/badge/数字伙伴平台-111927?style=for-the-badge&logo=robotframework&logoColor=white&width=240)
 
 - **[QiZhiDaPartnerPlatform](https://github.com/Lianjifu/QiZhiDaPartnerPlatform)** · Go 技术栈 · ⭐1 · 持续迭代
   面向企业的 AI 数字员工 / 数字伙伴平台,7×24h 陪伴式协作,而非单次任务调用。
 
-![智能体平台](https://img.shields.io/badge/智能体平台-111927?style=for-the-badge&logo=openai&logoColor=white)
+![智能体平台](https://img.shields.io/badge/智能体平台-111927?style=for-the-badge&logo=probot&logoColor=white&width=240)
 
 - **[QiZhiDaAgentPlatform](https://github.com/Lianjifu/QiZhiDaAgentPlatform)** · Python 技术栈 · 持续迭代
   面向中小企业的智能体构建与运营平台,无需懂技术,也能"搭"出能干活的智能体。
 
-![可观测平台](https://img.shields.io/badge/可观测平台-111927?style=for-the-badge&logo=prometheus&logoColor=white)
+![可观测平台](https://img.shields.io/badge/可观测平台-111927?style=for-the-badge&logo=prometheus&logoColor=white&width=240)
 
 - **[intelligent-operations-observability-platform](https://github.com/Lianjifu/intelligent-operations-observability-platform)** · Vue 技术栈· 持续迭代
   智能系统运维可观测性平台。
